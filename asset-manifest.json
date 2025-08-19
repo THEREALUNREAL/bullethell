@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bullethell/static/css/main.f855e6bc.css",
+    "main.js": "/bullethell/static/js/main.ab95e2a8.js",
+    "static/js/453.0a17f20a.chunk.js": "/bullethell/static/js/453.0a17f20a.chunk.js",
+    "index.html": "/bullethell/index.html",
+    "main.f855e6bc.css.map": "/bullethell/static/css/main.f855e6bc.css.map",
+    "main.ab95e2a8.js.map": "/bullethell/static/js/main.ab95e2a8.js.map",
+    "453.0a17f20a.chunk.js.map": "/bullethell/static/js/453.0a17f20a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ab95e2a8.js"
+  ]
+}
