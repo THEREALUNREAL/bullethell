@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bullethell/static/css/main.ccb74fc3.css",
-    "main.js": "/bullethell/static/js/main.130c43cb.js",
+    "main.js": "/bullethell/static/js/main.3b88d280.js",
     "static/js/453.54035d9a.chunk.js": "/bullethell/static/js/453.54035d9a.chunk.js",
     "index.html": "/bullethell/index.html",
     "main.ccb74fc3.css.map": "/bullethell/static/css/main.ccb74fc3.css.map",
-    "main.130c43cb.js.map": "/bullethell/static/js/main.130c43cb.js.map",
+    "main.3b88d280.js.map": "/bullethell/static/js/main.3b88d280.js.map",
     "453.54035d9a.chunk.js.map": "/bullethell/static/js/453.54035d9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccb74fc3.css",
-    "static/js/main.130c43cb.js"
+    "static/js/main.3b88d280.js"
   ]
 }
