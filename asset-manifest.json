@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bullethell/static/css/main.ccb74fc3.css",
-    "main.js": "/bullethell/static/js/main.dee5a8a8.js",
+    "main.js": "/bullethell/static/js/main.eaef6399.js",
     "static/js/453.54035d9a.chunk.js": "/bullethell/static/js/453.54035d9a.chunk.js",
     "static/media/Borb_MissingO.png": "/bullethell/static/media/Borb_MissingO.6206abd1d28399b2fe53.png",
     "index.html": "/bullethell/index.html",
     "main.ccb74fc3.css.map": "/bullethell/static/css/main.ccb74fc3.css.map",
-    "main.dee5a8a8.js.map": "/bullethell/static/js/main.dee5a8a8.js.map",
+    "main.eaef6399.js.map": "/bullethell/static/js/main.eaef6399.js.map",
     "453.54035d9a.chunk.js.map": "/bullethell/static/js/453.54035d9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccb74fc3.css",
-    "static/js/main.dee5a8a8.js"
+    "static/js/main.eaef6399.js"
   ]
 }
