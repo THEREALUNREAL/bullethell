@@ -1,0 +1,8 @@
+# Player Sound Effects
+# Place player-related audio files here:
+# - shoot_01.wav (weapon firing)
+# - melee_01.wav (melee attacks)
+# - hit_01.wav (taking damage)
+# - death_01.wav (player death)
+# - level_up_01.wav (level progression)
+# - upgrade_select.wav (upgrade selection)

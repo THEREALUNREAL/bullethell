@@ -1,0 +1,8 @@
+# Enemy Sound Effects
+# Place enemy-related audio files here:
+# - zombie_hit.wav (zombie damage)
+# - zombie_death.wav (zombie death)
+# - fast_enemy_hit.wav (fast enemy damage)
+# - tank_hit.wav (tank enemy damage)
+# - boss_roar.wav (boss special attacks)
+# - enemy_spawn.wav (enemy spawning)

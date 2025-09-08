@@ -1,0 +1,6 @@
+# Pickup Sound Effects
+# Place pickup-related audio files here:
+# - xp_pickup.wav (experience points)
+# - gold_pickup.wav (gold coins)
+# - health_pickup.wav (health restoration)
+# - ammo_pickup.wav (ammunition refill)

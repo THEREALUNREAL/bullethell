@@ -1,0 +1,7 @@
+# Mini-game Sound Effects
+# Place mini-game related audio files here:
+# - slot_machine_spin.wav (slot machine)
+# - wheel_spin.wav (wheel of fortune)
+# - match_two_correct.wav (match mini-game)
+# - match_two_wrong.wav (incorrect matches)
+# - minigame_win.wav (successful mini-games)
